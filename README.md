@@ -72,8 +72,8 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Willie Soares Lima
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/williesoares/
 
 
